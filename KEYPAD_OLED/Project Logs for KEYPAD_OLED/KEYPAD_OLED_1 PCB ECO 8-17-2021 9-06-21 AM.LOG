@@ -1,0 +1,18 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D62
+Change Component Designator: OldDesignator=D? NewDesignator=D63
+Change Component Designator: OldDesignator=D? NewDesignator=D64
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD62_1
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR6_1
+Added Pin To Net: NetName=NetD63_1 Pin=D63-1
+Added Pin To Net: NetName=NetD63_1 Pin=R6-2
+Added Net: Name=NetD63_1
+Added Pin To Net: NetName=NetD64_1 Pin=D64-1
+Added Pin To Net: NetName=NetD64_1 Pin=R8-2
+Added Net: Name=NetD64_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Net: Name=NetR8_1
+Added Member To Class: ClassName=KEYPAD Member=Component D63 Blue
+Added Member To Class: ClassName=KEYPAD Member=Component D64 Blue
+Added Member To Class: ClassName=KEYPAD Member=Component R6 510

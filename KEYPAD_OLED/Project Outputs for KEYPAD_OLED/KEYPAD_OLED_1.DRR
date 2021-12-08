@@ -1,0 +1,26 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: KEYPAD_OLED_1.PcbDoc   8/22/2021  10:07:05 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : KEYPAD_OLED_1-RoundHoles.TXT
+ASCII SlotHoles File : KEYPAD_OLED_1-SlotHoles.TXT
+ASCII RectHoles File : KEYPAD_OLED_1-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.249mm)                                           Round             128       PTH        0.00inch (0.00mm)
+T2      24mil (0.599mm)                                           Rectangle         2         PTH        0.00inch (0.00mm)
+T3      26mil (0.65mm)                                            Round             3         PTH        0.00inch (0.00mm)
+T4      26mil (0.65mm)                                            Slot              2         PTH        0.00inch (0.00mm)
+T5      29mil (0.729mm)                                           Round             122       PTH        0.00inch (0.00mm)
+T6      32mil (0.8mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T7      32mil (0.813mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T8      39mil (1.001mm)                                           Round             126       PTH        0.00inch (0.00mm)
+T9      138mil (3.5mm)                                            Round             2         PTH        0.00inch (0.00mm)
+T10     154mil (3.899mm)                                          Round             61        PTH        0.00inch (0.00mm)
+T11     197mil (5.001mm)                                          Round             2         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              454
+
+Total Processing Time (hh:mm:ss) : 00:00:00

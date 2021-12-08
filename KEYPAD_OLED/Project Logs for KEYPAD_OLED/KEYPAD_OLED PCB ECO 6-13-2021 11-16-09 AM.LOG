@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=GND Pin=U1-19
+Added Pin To Net: NetName=VCC3V3 Pin=J2-6
+Added Pin To Net: NetName=VCC3V3 Pin=U1-20
+Added Pin To Net: NetName=VCC3V3 Pin=U1-21
+Added Pin To Net: NetName=VCC3V3 Pin=U1-22
+Added Pin To Net: NetName=VCC3V3 Pin=U1-23
+Added Pin To Net: NetName=VCC3V3 Pin=U1-24
+Added Net: Name=VCC3V3
+Added Member To Class: ClassName=OLED Member=Component J1 JP8
+Added Member To Class: ClassName=OLED Member=Component J3 OLED

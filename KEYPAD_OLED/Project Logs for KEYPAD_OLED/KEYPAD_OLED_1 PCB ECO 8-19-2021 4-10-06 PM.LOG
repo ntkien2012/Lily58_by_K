@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=COL3 Pin=U2-49
+Removed Pin From Net: NetName=COL4 Pin=U2-50
+Removed Pin From Net: NetName=COL5 Pin=U2-51
+Removed Pin From Net: NetName=COL6 Pin=U2-52
+Removed Pin From Net: NetName=COL7 Pin=U2-53
+Added Pin To Net: NetName=COL3 Pin=U2-50
+Added Pin To Net: NetName=COL4 Pin=U2-51
+Added Pin To Net: NetName=COL5 Pin=U2-52
+Added Pin To Net: NetName=COL6 Pin=U2-53

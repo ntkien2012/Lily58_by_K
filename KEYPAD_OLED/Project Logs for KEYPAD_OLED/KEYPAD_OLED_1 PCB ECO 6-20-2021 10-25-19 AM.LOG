@@ -1,0 +1,7 @@
+Added Component: Designator=BAT1(DE PIN CR2032 SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PART NUMBER"; Value = "MINHHA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=BAT1-2
+Added Pin To Net: NetName=VCC3V3_BAT Pin=BAT1-1
+Added Net: Name=VCC3V3_BAT
+Added Member To Class: ClassName=OLED Member=Component BAT1 CR2032

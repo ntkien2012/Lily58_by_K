@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=LD1-2
+Removed Member From Class: ClassName=KEYPAD Member=LD1
+Removed Member From Class: ClassName=KEYPAD Member=R6
+Removed Member From Class: ClassName=KEYPAD Member=TP1
+Removed Member From Class: ClassName=KEYPAD Member=TP2

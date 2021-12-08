@@ -1,0 +1,19 @@
+Change Net Name : Old Net Name=NetR6_1 New Net Name=FN
+Added Pin To Net: NetName=CAP Pin=R5-1
+Added Pin To Net: NetName=CAP Pin=U2-15
+Added Net: Name=CAP
+Added Member To Class: ClassName=KEYPAD Member=Component C2 TLCT107M010XTA
+Added Member To Class: ClassName=KEYPAD Member=Component C4 100nF
+Added Member To Class: ClassName=KEYPAD Member=Component C6 100nF
+Added Member To Class: ClassName=KEYPAD Member=Component C7 100nF
+Added Member To Class: ClassName=KEYPAD Member=Component C10 2.2uF
+Added Member To Class: ClassName=KEYPAD Member=Component C11 CAP
+Added Member To Class: ClassName=KEYPAD Member=Component C12 CAP
+Added Member To Class: ClassName=KEYPAD Member=Component D54 Blue
+Added Member To Class: ClassName=KEYPAD Member=Component D58 1N4148WSF-7
+Added Member To Class: ClassName=KEYPAD Member=Component D60 1N4148WSF-7
+Added Member To Class: ClassName=KEYPAD Member=Component D62 1N4148WSF-7
+Added Member To Class: ClassName=KEYPAD Member=Component D64 1N4148WSF-7
+Added Member To Class: ClassName=KEYPAD Member=Component R2 10k
+Added Member To Class: ClassName=KEYPAD Member=Component R5 510
+Added Member To Class: ClassName=KEYPAD Member=Component R6 510

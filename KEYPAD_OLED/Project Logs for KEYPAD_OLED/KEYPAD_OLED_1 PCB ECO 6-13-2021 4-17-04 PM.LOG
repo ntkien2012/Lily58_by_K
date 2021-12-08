@@ -1,0 +1,78 @@
+Change Component Footprint: Designator=J2 Old Footprint=CON6 -RA New Footprint=CON6
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=hole1-1
+Added Pin To Net: NetName=GND Pin=hole2-1
+Added Pin To Net: NetName=GND Pin=hole3-1
+Added Pin To Net: NetName=GND Pin=hole4-1
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-8
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=GND Pin=U1-19
+Added Net: Name=GND
+Added Pin To Net: NetName=KEYPAD_nINTR Pin=J2-4
+Added Pin To Net: NetName=KEYPAD_nINTR Pin=U1-24
+Added Net: Name=KEYPAD_nINTR
+Added Pin To Net: NetName=KEYPAD_nRST Pin=J2-5
+Added Pin To Net: NetName=KEYPAD_nRST Pin=U1-20
+Added Net: Name=KEYPAD_nRST
+Added Pin To Net: NetName=KEYPAD_SCL Pin=J2-1
+Added Pin To Net: NetName=KEYPAD_SCL Pin=U1-23
+Added Net: Name=KEYPAD_SCL
+Added Pin To Net: NetName=KEYPAD_SDA Pin=J2-2
+Added Pin To Net: NetName=KEYPAD_SDA Pin=U1-22
+Added Net: Name=KEYPAD_SDA
+Added Pin To Net: NetName=NetSW1_1 Pin=SW1-1
+Added Pin To Net: NetName=NetSW1_1 Pin=SW2-1
+Added Pin To Net: NetName=NetSW1_1 Pin=SW3-1
+Added Pin To Net: NetName=NetSW1_1 Pin=SW4-1
+Added Pin To Net: NetName=NetSW1_1 Pin=U1-5
+Added Net: Name=NetSW1_1
+Added Pin To Net: NetName=NetSW1_2 Pin=SW1-2
+Added Pin To Net: NetName=NetSW1_2 Pin=SW5-2
+Added Pin To Net: NetName=NetSW1_2 Pin=SW9-2
+Added Pin To Net: NetName=NetSW1_2 Pin=U1-10
+Added Net: Name=NetSW1_2
+Added Pin To Net: NetName=NetSW2_2 Pin=SW2-2
+Added Pin To Net: NetName=NetSW2_2 Pin=SW6-2
+Added Pin To Net: NetName=NetSW2_2 Pin=SW10-2
+Added Pin To Net: NetName=NetSW2_2 Pin=U1-11
+Added Net: Name=NetSW2_2
+Added Pin To Net: NetName=NetSW3_2 Pin=SW3-2
+Added Pin To Net: NetName=NetSW3_2 Pin=SW7-2
+Added Pin To Net: NetName=NetSW3_2 Pin=SW11-2
+Added Pin To Net: NetName=NetSW3_2 Pin=U1-12
+Added Net: Name=NetSW3_2
+Added Pin To Net: NetName=NetSW4_2 Pin=SW4-2
+Added Pin To Net: NetName=NetSW4_2 Pin=SW8-2
+Added Pin To Net: NetName=NetSW4_2 Pin=SW12-2
+Added Pin To Net: NetName=NetSW4_2 Pin=U1-13
+Added Net: Name=NetSW4_2
+Added Pin To Net: NetName=NetSW5_1 Pin=SW5-1
+Added Pin To Net: NetName=NetSW5_1 Pin=SW6-1
+Added Pin To Net: NetName=NetSW5_1 Pin=SW7-1
+Added Pin To Net: NetName=NetSW5_1 Pin=SW8-1
+Added Pin To Net: NetName=NetSW5_1 Pin=U1-6
+Added Net: Name=NetSW5_1
+Added Pin To Net: NetName=NetSW9_1 Pin=SW9-1
+Added Pin To Net: NetName=NetSW9_1 Pin=SW10-1
+Added Pin To Net: NetName=NetSW9_1 Pin=SW11-1
+Added Pin To Net: NetName=NetSW9_1 Pin=SW12-1
+Added Pin To Net: NetName=NetSW9_1 Pin=U1-7
+Added Net: Name=NetSW9_1
+Added Pin To Net: NetName=OLED_GPIO_0_3V3 Pin=J1-6
+Added Net: Name=OLED_GPIO_0_3V3
+Added Pin To Net: NetName=OLED_GPIO_1_3V3 Pin=J1-7
+Added Net: Name=OLED_GPIO_1_3V3
+Added Pin To Net: NetName=OLED_MOSI_3V3 Pin=J1-2
+Added Net: Name=OLED_MOSI_3V3
+Added Pin To Net: NetName=OLED_nCS_3V3 Pin=J1-5
+Added Net: Name=OLED_nCS_3V3
+Added Pin To Net: NetName=OLED_SCK_3V3 Pin=J1-3
+Added Net: Name=OLED_SCK_3V3
+Added Pin To Net: NetName=VCC3V3 Pin=C1-2
+Added Pin To Net: NetName=VCC3V3 Pin=J1-1
+Added Pin To Net: NetName=VCC3V3 Pin=J2-6
+Added Pin To Net: NetName=VCC3V3 Pin=U1-21
+Added Net: Name=VCC3V3
+Added Class: Name=KEYPAD
+Added Class: Name=OLED

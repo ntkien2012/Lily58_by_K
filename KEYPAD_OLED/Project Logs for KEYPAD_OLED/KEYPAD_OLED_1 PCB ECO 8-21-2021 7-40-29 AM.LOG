@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=VCC_5V0 Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=VCC_3V3 Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C2-2
+Change Component Footprint: Designator=C1 Old Footprint=TC3528-1411 New Footprint=CAPMP7343X43N.
+Change Component Footprint: Designator=C2 Old Footprint=TC3528-1411 New Footprint=CAPMP7343X43N.
+Change Component Comment : Designator=C1 Old Comment=TLCT107M010XTA New Comment=
+Change Component Comment : Designator=C2 Old Comment=TLCT107M010XTA New Comment=
+Change component parameters: Designator = "C1" ("C1"); Footprint = "TC3528-1411"; UniqueID = "\IJJPUMRU" ("\IJJPUMRU")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = "TLCT107M010XTA-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "TC3528-1411"; UniqueID = "\FVFBMRFH" ("\FVFBMRFH")
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = "TLCT107M010XTA-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=VCC_5V0 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=VCC_3V3 Pin=C2-2

@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=JTCK_SWCLK Pin=U2-49
+Added Net: Name=JTCK_SWCLK
+Added Pin To Net: NetName=JTMS_SWDIO Pin=U2-46
+Added Net: Name=JTMS_SWDIO

@@ -1,0 +1,20 @@
+Added Pin To Net: NetName=NetSW1_1 Pin=U2-14
+Added Pin To Net: NetName=NetSW2_1 Pin=U2-15
+Added Pin To Net: NetName=NetSW3_1 Pin=U2-16
+Added Pin To Net: NetName=NetSW4_1 Pin=U2-17
+Added Pin To Net: NetName=NetSW5_1 Pin=U2-20
+Added Pin To Net: NetName=NetSW6_1 Pin=U2-21
+Added Pin To Net: NetName=NetSW7_1 Pin=U2-22
+Added Pin To Net: NetName=NetSW8_1 Pin=U2-23
+Added Pin To Net: NetName=NetD1_1 Pin=U2-26
+Added Pin To Net: NetName=NetD15_1 Pin=U2-27
+Added Pin To Net: NetName=NetD29_1 Pin=U2-28
+Added Pin To Net: NetName=NetSW9_1 Pin=U2-41
+Added Pin To Net: NetName=NetSW10_1 Pin=U2-42
+Added Pin To Net: NetName=NetSW11_1 Pin=U2-43
+Added Pin To Net: NetName=NetSW12_1 Pin=U2-44
+Added Pin To Net: NetName=NetSW13_1 Pin=U2-45
+Added Pin To Net: NetName=NetSW14_1 Pin=U2-46
+Added Pin To Net: NetName=NetD42_1 Pin=U2-55
+Added Pin To Net: NetName=NetD54_1 Pin=U2-56
+Change Net Name : Old Net Name=JTCK_SWCLK New Net Name=NetU2_49

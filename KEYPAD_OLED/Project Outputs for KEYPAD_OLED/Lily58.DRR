@@ -1,0 +1,26 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Lily58.PcbDoc   12/7/2021  9:19:39 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Lily58-RoundHoles.TXT
+ASCII SlotHoles File : Lily58-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.249mm)                                           Round             33        PTH        0.00inch (0.00mm)
+T2      29mil (0.729mm)                                           Round             58        PTH        0.00inch (0.00mm)
+T3      39mil (1.001mm)                                           Slot              8         PTH        0.00inch (0.00mm)
+T4      47mil (1.199mm)                                           Round             24        PTH        0.00inch (0.00mm)
+T5      51mil (1.3mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T6      59mil (1.501mm)                                           Round             116       PTH        0.00inch (0.00mm)
+T7      71mil (1.801mm)                                           Round             58        PTH        0.00inch (0.00mm)
+T8      98mil (2.499mm)                                           Round             2         PTH        0.00inch (0.00mm)
+T9      154mil (3.899mm)                                          Round             29        PTH        0.00inch (0.00mm)
+T10     193mil (4.9mm)                                            Round             4         PTH        0.00inch (0.00mm)
+T11     63mil (1.6mm)                                             Round             2         NPTH       0.00inch (0.00mm)
+T12     193mil (4.9mm)                                            Round             1         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              337
+
+Total Processing Time (hh:mm:ss) : 00:00:00

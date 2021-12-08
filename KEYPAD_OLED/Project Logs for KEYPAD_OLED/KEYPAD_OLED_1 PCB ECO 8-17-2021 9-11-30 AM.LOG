@@ -1,0 +1,42 @@
+Change Component Footprint: Designator=D62 Old Footprint=HDR1X2 New Footprint=LED-3
+Change Component Footprint: Designator=D63 Old Footprint=HDR1X2 New Footprint=LED-3
+Change Component Footprint: Designator=D64 Old Footprint=HDR1X2 New Footprint=LED-3
+Added Component: Designator=C15(CAPC1608L)
+Add component (AddParameter): Name = "Manuf_1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_Part_1"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C16(CAPTANTA1206)
+Add component (AddParameter): Name = "DIGIKEY PART"; Value = "399-3678-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ECCN_US/EU"; Value = "n/a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_1"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_Part_1"; Value = "T491A105K016AT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1UF"; VariantName = "[No Variations]"
+Added Component: Designator=L1(RESC1608L)
+Add component (AddParameter): Name = "Description_2"; Value = "Bead,30R,5A,0603,MPZ1608S300A,TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description_3"; Value = "Bead,600R,350mA,0603,FCM1608KF-601T03,Tai-tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ECCN_US/EU"; Value = "n/a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_1"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_2"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_3"; Value = "Tai-tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_Part_1"; Value = "BLM18PG121SN1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_Part_2"; Value = "MPZ1608S300A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_Part_3"; Value = "FCM1608KF-601T03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100uH"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=VDDA Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=VDDA Pin=C16-2
+Added Pin To Net: NetName=3V3 Pin=L1-1
+Added Pin To Net: NetName=VDDA Pin=L1-2
+Added Differential Pair: Name=USB_OTG_HS
+Added Member To Class: ClassName=KEYPAD Member=Component C15 100nF
+Added Member To Class: ClassName=KEYPAD Member=Component C16 1uF
+Added Member To Class: ClassName=KEYPAD Member=Component D62 LED SMD
+Added Member To Class: ClassName=KEYPAD Member=Component L1 BLM18PG121SN1D
+Added Member To Class: ClassName=KEYPAD Member=Component R8 510

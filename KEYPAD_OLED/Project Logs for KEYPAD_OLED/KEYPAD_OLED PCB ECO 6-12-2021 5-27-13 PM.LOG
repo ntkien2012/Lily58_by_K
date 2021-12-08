@@ -1,0 +1,4 @@
+Added Component: Designator=J1(OLED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Connector 8"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=KEYPAD Member=Component J1 OLED

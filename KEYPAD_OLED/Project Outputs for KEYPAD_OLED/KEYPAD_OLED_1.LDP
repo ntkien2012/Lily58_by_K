@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: E:\Du_an_ca_nhan\KEYPAD_OLED\KEYPAD_OLED\KEYPAD_OLED_1.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=keypad_oled_1-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=keypad_oled_1-slotholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=keypad_oled_1-rectholes.txt|DrillLayers=gtl,gbl

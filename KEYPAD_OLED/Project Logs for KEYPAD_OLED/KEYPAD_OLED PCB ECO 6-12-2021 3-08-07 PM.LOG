@@ -1,0 +1,36 @@
+Added Component: Designator=SW1(cherry_sw)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW2(cherry_sw)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW3(cherry_sw)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW4(cherry_sw)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW5(cherry_sw)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW6(cherry_sw)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW7(cherry_sw)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW8(cherry_sw)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW9(cherry_sw)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW10(cherry_sw)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW11(cherry_sw)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW12(cherry_sw)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=KEYPAD Member=Component SW1 
+Added Member To Class: ClassName=KEYPAD Member=Component SW2 
+Added Member To Class: ClassName=KEYPAD Member=Component SW3 
+Added Member To Class: ClassName=KEYPAD Member=Component SW4 
+Added Member To Class: ClassName=KEYPAD Member=Component SW5 
+Added Member To Class: ClassName=KEYPAD Member=Component SW6 
+Added Member To Class: ClassName=KEYPAD Member=Component SW7 
+Added Member To Class: ClassName=KEYPAD Member=Component SW8 
+Added Member To Class: ClassName=KEYPAD Member=Component SW9 
+Added Member To Class: ClassName=KEYPAD Member=Component SW10 
+Added Member To Class: ClassName=KEYPAD Member=Component SW11 
+Added Member To Class: ClassName=KEYPAD Member=Component SW12 

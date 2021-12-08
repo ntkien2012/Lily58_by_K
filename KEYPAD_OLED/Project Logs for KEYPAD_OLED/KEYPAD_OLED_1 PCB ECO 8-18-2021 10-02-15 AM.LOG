@@ -1,0 +1,5 @@
+Added Component: Designator=Y1(CRYSTAL-HC49S)
+Add component (AddParameter): Name = "DIGIKEY"; Value = "XC1781CT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC13_1 Pin=Y1-1
+Added Pin To Net: NetName=NetC14_1 Pin=Y1-2
+Added Member To Class: ClassName=KEYPAD Member=Component Y1 25MHz

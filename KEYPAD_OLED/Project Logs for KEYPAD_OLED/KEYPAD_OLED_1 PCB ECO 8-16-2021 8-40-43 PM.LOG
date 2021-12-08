@@ -1,0 +1,53 @@
+Removed Pin From Net: NetName=5V Pin=USB1-1
+Removed Pin From Net: NetName=USB_OTG_HS_N Pin=USB1-2
+Removed Pin From Net: NetName=USB_OTG_HS_P Pin=USB1-3
+Removed Pin From Net: NetName=GND Pin=USB1-4
+Removed Member From Class: ClassName=KEYPAD Member=USB1
+Added Component: Designator=R7(RESC1608L)
+Add component (AddParameter): Name = "Digikey part number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(TSQFP50P1200X1200X160-64N)
+Add component (AddParameter): Name = "Digikey"; Value = "497-15376-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price Break"; Value = "8,59"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=NetR1_2 Pin=U2-1
+Added Pin To Net: NetName=NetC14_1 Pin=U2-5
+Added Pin To Net: NetName=NetC13_1 Pin=U2-6
+Added Pin To Net: NetName=NetR3_1 Pin=U2-7
+Added Pin To Net: NetName=INTA Pin=U2-9
+Added Pin To Net: NetName=INTB Pin=U2-10
+Added Pin To Net: NetName=GND Pin=U2-12
+Added Pin To Net: NetName=VDDA Pin=U2-13
+Added Pin To Net: NetName=UART4_TX Pin=U2-14
+Added Pin To Net: NetName=UART4_RX Pin=U2-15
+Added Pin To Net: NetName=GND Pin=U2-18
+Added Pin To Net: NetName=3V3 Pin=U2-19
+Added Pin To Net: NetName=CS Pin=U2-20
+Added Pin To Net: NetName=SCK Pin=U2-21
+Added Pin To Net: NetName=SO Pin=U2-22
+Added Pin To Net: NetName=SI Pin=U2-23
+Added Pin To Net: NetName=CLOCK4017 Pin=U2-27
+Added Pin To Net: NetName=TPRESET Pin=U2-28
+Added Pin To Net: NetName=NetC6_1 Pin=U2-30
+Added Pin To Net: NetName=GND Pin=U2-31
+Added Pin To Net: NetName=3V3 Pin=U2-32
+Added Pin To Net: NetName=USB_OTG_HS_N Pin=U2-35
+Added Pin To Net: NetName=USB_OTG_HS_P Pin=U2-36
+Added Pin To Net: NetName=USART1_TX_N Pin=U2-42
+Added Pin To Net: NetName=USART1_RX_P Pin=U2-43
+Added Pin To Net: NetName=JTMS_SWDIO Pin=U2-46
+Added Pin To Net: NetName=GND Pin=U2-47
+Added Pin To Net: NetName=3V3 Pin=U2-48
+Added Pin To Net: NetName=JTCK_SWCLK Pin=U2-49
+Added Pin To Net: NetName=NetR6_1 Pin=U2-50
+Added Pin To Net: NetName=FN Pin=U2-55
+Added Pin To Net: NetName=RESET Pin=U2-56
+Added Pin To Net: NetName=TPCLOCK Pin=U2-58
+Added Pin To Net: NetName=TPDATA Pin=U2-59
+Added Pin To Net: NetName=NetR4_1 Pin=U2-60
+Added Pin To Net: NetName=GND Pin=U2-63
+Added Pin To Net: NetName=3V3 Pin=U2-64
+Added Pin To Net: NetName=NetP1_4 Pin=R7-1
+Added Net: Name=NetP1_4
+Added Member To Class: ClassName=KEYPAD Member=Component R7 NC
+Added Member To Class: ClassName=KEYPAD Member=Component U2 STM32F44RET6

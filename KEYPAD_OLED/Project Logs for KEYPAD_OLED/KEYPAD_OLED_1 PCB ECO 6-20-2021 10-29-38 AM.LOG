@@ -1,0 +1,12 @@
+Added Component: Designator=J4(CON2 -RA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.digikey.com/en/datasheets/jstsalesamericainc/jst-sales-america-inc-eeh"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "455-1611-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Price/Stock"; Value = "0.14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "JST Sales America Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC3V3_BAT Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Member To Class: ClassName=OLED Member=Component J4 Battery

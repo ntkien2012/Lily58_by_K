@@ -1,0 +1,43 @@
+Change Component Footprint: Designator=SW1 Old Footprint=cherry_sw - duplicate New Footprint=cherry_sw_double_side
+Change Component Footprint: Designator=SW2 Old Footprint=cherry_sw - duplicate New Footprint=cherry_sw_double_side
+Change Component Footprint: Designator=SW3 Old Footprint=cherry_sw - duplicate New Footprint=cherry_sw_double_side
+Change Component Footprint: Designator=SW4 Old Footprint=cherry_sw - duplicate New Footprint=cherry_sw_double_side
+Change Component Footprint: Designator=SW5 Old Footprint=cherry_sw - duplicate New Footprint=cherry_sw_double_side
+Change Component Footprint: Designator=SW6 Old Footprint=cherry_sw - duplicate New Footprint=cherry_sw_double_side
+Change Component Footprint: Designator=SW7 Old Footprint=cherry_sw - duplicate New Footprint=cherry_sw_double_side
+Change Component Footprint: Designator=SW8 Old Footprint=cherry_sw - duplicate New Footprint=cherry_sw_double_side
+Change Component Footprint: Designator=SW9 Old Footprint=cherry_sw - duplicate New Footprint=cherry_sw_double_side
+Change Component Footprint: Designator=SW10 Old Footprint=cherry_sw - duplicate New Footprint=cherry_sw_double_side
+Change Component Footprint: Designator=SW11 Old Footprint=cherry_sw - duplicate New Footprint=cherry_sw_double_side
+Change Component Footprint: Designator=SW12 Old Footprint=cherry_sw - duplicate New Footprint=cherry_sw_double_side
+Change Component Footprint: Designator=SW13 Old Footprint=cherry_sw - duplicate New Footprint=cherry_sw_double_side
+Change Component Footprint: Designator=SW14 Old Footprint=cherry_sw - duplicate New Footprint=cherry_sw_double_side
+Change Component Footprint: Designator=SW15 Old Footprint=cherry_sw - duplicate New Footprint=cherry_sw_double_side
+Change Component Footprint: Designator=SW16 Old Footprint=cherry_sw - duplicate New Footprint=cherry_sw_double_side
+Change Component Footprint: Designator=SW17 Old Footprint=cherry_sw - duplicate New Footprint=cherry_sw_double_side
+Change Component Footprint: Designator=SW18 Old Footprint=cherry_sw - duplicate New Footprint=cherry_sw_double_side
+Change Component Footprint: Designator=SW19 Old Footprint=cherry_sw - duplicate New Footprint=cherry_sw_double_side
+Change Component Footprint: Designator=SW20 Old Footprint=cherry_sw - duplicate New Footprint=cherry_sw_double_side
+Change Component Footprint: Designator=SW21 Old Footprint=cherry_sw - duplicate New Footprint=cherry_sw_double_side
+Change Component Footprint: Designator=SW22 Old Footprint=cherry_sw - duplicate New Footprint=cherry_sw_double_side
+Change Component Footprint: Designator=SW23 Old Footprint=cherry_sw - duplicate New Footprint=cherry_sw_double_side
+Change Component Footprint: Designator=SW24 Old Footprint=cherry_sw - duplicate New Footprint=cherry_sw_double_side
+Change Component Footprint: Designator=SW25 Old Footprint=cherry_sw - duplicate New Footprint=cherry_sw_double_side
+Change Component Footprint: Designator=SW26 Old Footprint=cherry_sw - duplicate New Footprint=cherry_sw_double_side
+Change Component Footprint: Designator=SW27 Old Footprint=cherry_sw - duplicate New Footprint=cherry_sw_double_side
+Change Component Footprint: Designator=SW28 Old Footprint=cherry_sw - duplicate New Footprint=cherry_sw_double_side
+Change Component Footprint: Designator=SW29 Old Footprint=cherry_sw - duplicate New Footprint=cherry_sw_double_side
+Added Component: Designator=SW30(DTS-32)
+Added Pin To Net: NetName=VCC Pin=P1-2
+Added Pin To Net: NetName=VCC Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=GND Pin=SW30-1
+Added Pin To Net: NetName=NetP1_4 Pin=P1-4
+Added Pin To Net: NetName=NetP1_4 Pin=P1-4
+Added Pin To Net: NetName=NetP1_4 Pin=U1-2
+Added Net: Name=NetP1_4
+Added Pin To Net: NetName=NetSW30_2 Pin=SW30-2
+Added Pin To Net: NetName=NetSW30_2 Pin=U1-22
+Added Net: Name=NetSW30_2
+Added Member To Class: ClassName=KEYPAD Member=Component SW30

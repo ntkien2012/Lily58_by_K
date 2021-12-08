@@ -1,0 +1,14 @@
+Removed Member From Class: ClassName=OLED Member=J1
+Change Component Designator: OldDesignator=SW6 NewDesignator=SW5
+Change Component Designator: OldDesignator=SW7 NewDesignator=SW6
+Change Component Designator: OldDesignator=SW8 NewDesignator=SW7
+Change Component Designator: OldDesignator=SW9 NewDesignator=SW8
+Change Component Designator: OldDesignator=SW11 NewDesignator=SW9
+Change Component Designator: OldDesignator=SW12 NewDesignator=SW10
+Change Component Designator: OldDesignator=SW13 NewDesignator=SW11
+Change Component Designator: OldDesignator=SW14 NewDesignator=SW12
+Change Net Name : Old Net Name=NetSW6_1 New Net Name=NetSW5_1
+Change Net Name : Old Net Name=NetSW11_1 New Net Name=NetSW9_1
+Added Member To Class: ClassName=OLED Member=Component J2 JP8
+Added Member To Class: ClassName=KEYPAD Member=Component SW5 
+Added Member To Class: ClassName=KEYPAD Member=Component SW7 

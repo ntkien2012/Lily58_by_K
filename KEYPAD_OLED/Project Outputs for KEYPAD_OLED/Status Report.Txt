@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [KEYPAD_OLED.PrjPcb]
+   Generated File[Lily58-RoundHoles.TXT]
+   Generated File[Lily58-SlotHoles.TXT]
+   Generated File[Lily58.LDP]
+   Generated File[Lily58.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 9:19:39 PM On 12/7/2021

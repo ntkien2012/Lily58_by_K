@@ -1,0 +1,29 @@
+Change Component Designator: OldDesignator=J1 NewDesignator=J2
+Change Component Designator: OldDesignator=J2 NewDesignator=J1
+Change Component Designator: OldDesignator=SW5 NewDesignator=SW6
+Change Component Designator: OldDesignator=SW6 NewDesignator=SW7
+Change Component Designator: OldDesignator=SW7 NewDesignator=SW8
+Change Component Designator: OldDesignator=SW8 NewDesignator=SW9
+Change Component Designator: OldDesignator=SW9 NewDesignator=SW11
+Change Component Designator: OldDesignator=SW10 NewDesignator=SW12
+Change Component Designator: OldDesignator=SW11 NewDesignator=SW13
+Change Component Designator: OldDesignator=SW12 NewDesignator=SW14
+Added Component: Designator=SW5(cherry_sw)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW10(cherry_sw)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW15(cherry_sw)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetSW1_1 Pin=SW5-1
+Added Pin To Net: NetName=NetSW5_1 Pin=SW10-1
+Added Pin To Net: NetName=NetSW9_1 Pin=SW15-1
+Change Net Name : Old Net Name=NetSW5_1 New Net Name=NetSW6_1
+Change Net Name : Old Net Name=NetSW9_1 New Net Name=NetSW11_1
+Added Pin To Net: NetName=NetSW5_2 Pin=SW5-2
+Added Pin To Net: NetName=NetSW5_2 Pin=SW10-2
+Added Pin To Net: NetName=NetSW5_2 Pin=SW15-2
+Added Pin To Net: NetName=NetSW5_2 Pin=U1-14
+Added Net: Name=NetSW5_2
+Added Member To Class: ClassName=KEYPAD Member=Component SW13 
+Added Member To Class: ClassName=KEYPAD Member=Component SW14 
+Added Member To Class: ClassName=KEYPAD Member=Component SW15 

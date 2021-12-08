@@ -1,0 +1,11 @@
+Added Component: Designator=J1(Header_4 RA)
+Add component (AddParameter): Name = "Value"; Value = "Connector 5"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_3V3 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=SWCLK Pin=J1-3
+Added Pin To Net: NetName=SWCLK Pin=U2-49
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=J1-2
+Added Pin To Net: NetName=SWDIO Pin=U2-46
+Added Net: Name=SWDIO
+Added Member To Class: ClassName=KEYPAD Member=Component J1 Con4

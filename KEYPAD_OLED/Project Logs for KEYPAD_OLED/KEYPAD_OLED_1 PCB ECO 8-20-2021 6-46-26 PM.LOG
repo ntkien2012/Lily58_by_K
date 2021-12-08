@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=VCC_3V3 Pin=R4-1
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)

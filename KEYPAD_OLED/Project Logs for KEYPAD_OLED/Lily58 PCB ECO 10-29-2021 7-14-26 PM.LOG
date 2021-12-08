@@ -1,0 +1,25 @@
+Added Component: Designator=P1(pj-313b6-x)
+Added Component: Designator=U1(Arduino_pro_micro)
+Added Pin To Net: NetName=ROW0 Pin=U1-8
+Added Pin To Net: NetName=ROW1 Pin=U1-9
+Added Pin To Net: NetName=ROW2 Pin=U1-10
+Added Pin To Net: NetName=ROW3 Pin=U1-11
+Added Pin To Net: NetName=ROW4 Pin=U1-12
+Added Pin To Net: NetName=COL5 Pin=U1-13
+Added Pin To Net: NetName=COL4 Pin=U1-14
+Added Pin To Net: NetName=COL3 Pin=U1-15
+Added Pin To Net: NetName=COL2 Pin=U1-16
+Added Pin To Net: NetName=COL1 Pin=U1-17
+Added Pin To Net: NetName=COL0 Pin=U1-18
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-23
+Added Net: Name=GND
+Added Pin To Net: NetName=NetU1_2 Pin=U1-2
+Added Net: Name=NetU1_2
+Added Pin To Net: NetName=NetU1_22 Pin=U1-22
+Added Net: Name=NetU1_22
+Added Pin To Net: NetName=VCC Pin=U1-21
+Added Net: Name=VCC
+Added Member To Class: ClassName=KEYPAD Member=Component P1 PJ-313B
+Added Member To Class: ClassName=KEYPAD Member=Component U1 Arduino_pro_micro

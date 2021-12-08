@@ -1,0 +1,8 @@
+Added Component: Designator=J2(CON6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Connector 5"; VariantName = "[No Variations]"
+Added Component: Designator=J3(CON8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Connector 8"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=KEYPAD Member=Component J2 Con6
+Added Member To Class: ClassName=KEYPAD Member=Component J3 JP8

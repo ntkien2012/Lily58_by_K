@@ -1,0 +1,148 @@
+Added Component: Designator=C17(CAPC1608L)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=J1(JP6)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RESC1608L)
+Add component (AddParameter): Name = "Digikey part number"; Value = "P17199CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-PA2J103X"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RESC1608L)
+Add component (AddParameter): Name = "Digikey part number"; Value = "P17199CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-PA2J103X"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RESC1608L)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RESC1608L)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RESC1608L)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RESC1608L)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RESC1608L)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RESC1608L)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RESC1608L)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RESC1608L)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RESC1608L)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R19(RESC1608L)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R20(RESC1608L)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R21(RESC1608L)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R22(RESC1608L)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R23(RESC1608L)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R24(RESC1608L)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=3V3 Pin=J1-1
+Added Pin To Net: NetName=JTCK_SWCLK Pin=J1-2
+Added Pin To Net: NetName=JTMS_SWDIO Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=3V3 Pin=R7-1
+Added Pin To Net: NetName=JTCK_SWCLK Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=JTMS_SWDIO Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=NetSW13_1 Pin=R12-2
+Added Pin To Net: NetName=GND Pin=R13-1
+Added Pin To Net: NetName=NetSW12_1 Pin=R13-2
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=NetSW11_1 Pin=R14-2
+Added Pin To Net: NetName=GND Pin=R15-1
+Added Pin To Net: NetName=NetSW10_1 Pin=R15-2
+Added Pin To Net: NetName=GND Pin=R16-1
+Added Pin To Net: NetName=NetSW9_1 Pin=R16-2
+Added Pin To Net: NetName=GND Pin=R17-1
+Added Pin To Net: NetName=NetSW8_1 Pin=R17-2
+Added Pin To Net: NetName=GND Pin=R18-1
+Added Pin To Net: NetName=NetSW7_1 Pin=R18-2
+Added Pin To Net: NetName=GND Pin=R19-1
+Added Pin To Net: NetName=NetSW6_1 Pin=R19-2
+Added Pin To Net: NetName=GND Pin=R20-1
+Added Pin To Net: NetName=NetSW5_1 Pin=R20-2
+Added Pin To Net: NetName=GND Pin=R21-1
+Added Pin To Net: NetName=NetSW4_1 Pin=R21-2
+Added Pin To Net: NetName=GND Pin=R22-1
+Added Pin To Net: NetName=NetSW3_1 Pin=R22-2
+Added Pin To Net: NetName=GND Pin=R23-1
+Added Pin To Net: NetName=NetSW2_1 Pin=R23-2
+Added Pin To Net: NetName=GND Pin=R24-1
+Added Pin To Net: NetName=NetSW1_1 Pin=R24-2
+Change Net Name : Old Net Name=NetSW1_1 New Net Name=COL0
+Change Net Name : Old Net Name=NetSW2_1 New Net Name=COL1
+Change Net Name : Old Net Name=NetSW3_1 New Net Name=COL2
+Change Net Name : Old Net Name=NetSW4_1 New Net Name=COL3
+Change Net Name : Old Net Name=NetSW5_1 New Net Name=COL4
+Change Net Name : Old Net Name=NetSW6_1 New Net Name=COL5
+Change Net Name : Old Net Name=NetSW7_1 New Net Name=COL6
+Change Net Name : Old Net Name=NetSW8_1 New Net Name=COL7
+Change Net Name : Old Net Name=NetSW9_1 New Net Name=COL8
+Change Net Name : Old Net Name=NetSW10_1 New Net Name=COL9
+Change Net Name : Old Net Name=NetSW11_1 New Net Name=COL10
+Change Net Name : Old Net Name=NetSW12_1 New Net Name=COL11
+Change Net Name : Old Net Name=NetSW13_1 New Net Name=COL12
+Added Pin To Net: NetName=COL13 Pin=R11-2
+Added Pin To Net: NetName=COL13 Pin=SW14-1
+Added Pin To Net: NetName=COL13 Pin=SW28-1
+Added Net: Name=COL13
+Added Pin To Net: NetName=COL14 Pin=R10-2
+Added Net: Name=COL14
+Added Net: Name=CS
+Added Net: Name=INTA
+Added Net: Name=INTB
+Added Net: Name=SCK
+Added Net: Name=SI
+Added Net: Name=SO
+Added Pin To Net: NetName=USART1_RX_P Pin=J1-5
+Added Net: Name=USART1_RX_P
+Added Pin To Net: NetName=USART1_TX_N Pin=J1-6
+Added Net: Name=USART1_TX_N
+Added Member To Class: ClassName=KEYPAD Member=Component C17
+Added Member To Class: ClassName=KEYPAD Member=Component J1 MHDR1X6
+Added Member To Class: ClassName=KEYPAD Member=Component R7 10k
+Added Member To Class: ClassName=KEYPAD Member=Component R9 10k
+Added Member To Class: ClassName=KEYPAD Member=Component R10 10K-0603
+Added Member To Class: ClassName=KEYPAD Member=Component R11 10K-0603
+Added Member To Class: ClassName=KEYPAD Member=Component R12 10K-0603
+Added Member To Class: ClassName=KEYPAD Member=Component R13 10K-0603
+Added Member To Class: ClassName=KEYPAD Member=Component R14 10K-0603
+Added Member To Class: ClassName=KEYPAD Member=Component R15 10K-0603
+Added Member To Class: ClassName=KEYPAD Member=Component R16 10K-0603
+Added Member To Class: ClassName=KEYPAD Member=Component R17 10K-0603
+Added Member To Class: ClassName=KEYPAD Member=Component R18 10K-0603
+Added Member To Class: ClassName=KEYPAD Member=Component R19 10K-0603
+Added Member To Class: ClassName=KEYPAD Member=Component R20 10K-0603
+Added Member To Class: ClassName=KEYPAD Member=Component R21 10K-0603
+Added Member To Class: ClassName=KEYPAD Member=Component R22 10K-0603
+Added Member To Class: ClassName=KEYPAD Member=Component R23 10K-0603
+Added Member To Class: ClassName=KEYPAD Member=Component R24 10K-0603
+Added Member To Class: ClassName=POW Member=Wire NetC6_1
+Added Member To Class: ClassName=POW Member=Wire NetR1_2
+Added Member To Class: ClassName=POW Member=Wire NetR3_1
+Added Member To Class: ClassName=POW Member=Wire NetR4_1

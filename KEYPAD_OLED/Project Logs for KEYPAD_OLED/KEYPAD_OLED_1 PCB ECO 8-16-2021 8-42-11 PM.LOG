@@ -1,0 +1,148 @@
+Added Component: Designator=C1(CAPTANTA1206)
+Add component (AddParameter): Name = "DIGIKEY PART"; Value = "399-3678-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ECCN_US/EU"; Value = "n/a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_1"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_Part_1"; Value = "T491A105K016AT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1UF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPC1608L)
+Add component (AddParameter): Name = "Manuf_1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_Part_1"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPC1608L)
+Add component (AddParameter): Name = "Manuf_1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_Part_1"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPC1608L)
+Add component (AddParameter): Name = "Manuf_1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_Part_1"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAPC1608L)
+Add component (AddParameter): Name = "Manuf_1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_Part_1"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPC1608L)
+Add component (AddParameter): Name = "Digikey Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAPTANTA1206)
+Add component (AddParameter): Name = "DIGIKEY PART"; Value = "399-3678-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ECCN_US/EU"; Value = "n/a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_1"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_Part_1"; Value = "T491A105K016AT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1UF"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAPC1608L)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAPC1608L)
+Add component (AddParameter): Name = "DIGIKEY MOQ1"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIGIKEY P/N"; Value = "587-1240-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GCC P/N"; Value = "EMK107B7104KA-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GCC VENDOR"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR P/N"; Value = "EMK107B7104KA-T"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAPC1608L)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAPC1608L)
+Add component (AddParameter): Name = "DIGIKEY MOQ1"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIGIKEY P/N"; Value = "587-1240-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GCC P/N"; Value = "EMK107B7104KA-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GCC VENDOR"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VENDOR P/N"; Value = "EMK107B7104KA-T"; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAPC1608L)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C13(CAPC1608L)
+Add component (AddParameter): Name = "CAP"; Value = "20pF"; VariantName = "[No Variations]"
+Added Component: Designator=C14(CAPC1608L)
+Add component (AddParameter): Name = "CAP"; Value = "20pF"; VariantName = "[No Variations]"
+Added Component: Designator=P1(USB_MICRO_B_SMT)
+Added Component: Designator=TP1(TP)
+Added Component: Designator=TP2(TP)
+Added Component: Designator=U3(SOT95P275X110-6N)
+Add component (AddParameter): Name = "DIGIKEY"; Value = "1727-3578-1-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=3V3 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=3V3 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=3V3 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=3V3 Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=3V3 Pin=C5-2
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=5V Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=5V Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=5V Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=3V3 Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=3V3 Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC13_1 Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=NetC14_1 Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=5V Pin=P1-1
+Added Pin To Net: NetName=USB_OTG_HS_N Pin=P1-2
+Added Pin To Net: NetName=USB_OTG_HS_P Pin=P1-3
+Added Pin To Net: NetName=NetP1_4 Pin=P1-4
+Added Pin To Net: NetName=GND Pin=P1-5
+Added Pin To Net: NetName=TPCLOCK Pin=TP1-1
+Added Pin To Net: NetName=TPDATA Pin=TP2-1
+Added Pin To Net: NetName=USB_OTG_HS_P Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=5V Pin=U3-5
+Added Pin To Net: NetName=USB_OTG_HS_N Pin=U3-6
+Added Member To Class: ClassName=KEYPAD Member=Component C1 1uF
+Added Member To Class: ClassName=KEYPAD Member=Component C2 100nF
+Added Member To Class: ClassName=KEYPAD Member=Component C3 100nF
+Added Member To Class: ClassName=KEYPAD Member=Component C4 100nF
+Added Member To Class: ClassName=KEYPAD Member=Component C5 100nF
+Added Member To Class: ClassName=KEYPAD Member=Component C6 2.2uF
+Added Member To Class: ClassName=KEYPAD Member=Component C7 1uF
+Added Member To Class: ClassName=KEYPAD Member=Component C8 1uF
+Added Member To Class: ClassName=KEYPAD Member=Component C9 EMK107B7104KA-T
+Added Member To Class: ClassName=KEYPAD Member=Component C10 1uF
+Added Member To Class: ClassName=KEYPAD Member=Component C11 EMK107B7104KA-T
+Added Member To Class: ClassName=KEYPAD Member=Component C12 10nF
+Added Member To Class: ClassName=KEYPAD Member=Component C13 CAP
+Added Member To Class: ClassName=KEYPAD Member=Component C14 CAP
+Added Member To Class: ClassName=KEYPAD Member=Component P1 USB_M
+Added Member To Class: ClassName=KEYPAD Member=Component TP1 test point (DNP)
+Added Member To Class: ClassName=KEYPAD Member=Component TP2 test point (DNP)
+Added Member To Class: ClassName=KEYPAD Member=Component U3 IP4220CZ6

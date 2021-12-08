@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=GND Pin=hole1-1
+Added Pin To Net: NetName=GND Pin=hole2-1
+Added Pin To Net: NetName=GND Pin=hole3-1
+Added Pin To Net: NetName=GND Pin=hole4-1
+Added Net: Name=GND
+Added Member To Class: ClassName=KEYPAD Member=Component hole1 Vit 3mm
+Added Member To Class: ClassName=KEYPAD Member=Component hole2 Vit 3mm
+Added Member To Class: ClassName=KEYPAD Member=Component hole3 Vit 3mm
+Added Member To Class: ClassName=KEYPAD Member=Component hole4 Vit 3mm

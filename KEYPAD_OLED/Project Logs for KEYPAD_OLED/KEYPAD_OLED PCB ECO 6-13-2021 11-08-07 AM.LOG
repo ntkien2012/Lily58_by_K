@@ -1,0 +1,26 @@
+Removed Member From Class: ClassName=KEYPAD Member=J1
+Removed Member From Class: ClassName=KEYPAD Member=J3
+Added Component: Designator=J1(CON8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Connector 8"; VariantName = "[No Variations]"
+Added Component: Designator=J3(OLED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Connector 8"; VariantName = "[No Variations]"
+Added Component: Designator=U1(CP_24_1_ADI)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2021 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADP5588ACPZ-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "Analog_2012-01-01_8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Analog Devices Inc"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetSW1_1 Pin=U1-5
+Added Pin To Net: NetName=NetSW5_1 Pin=U1-6
+Added Pin To Net: NetName=NetSW9_1 Pin=U1-7
+Added Pin To Net: NetName=NetSW1_2 Pin=U1-10
+Added Pin To Net: NetName=NetSW2_2 Pin=U1-11
+Added Pin To Net: NetName=NetSW3_2 Pin=U1-12
+Added Pin To Net: NetName=NetSW4_2 Pin=U1-13
+Added Class: Name=OLED
+Added Member To Class: ClassName=KEYPAD Member=Component U1 ADP5588ACPZ-R7

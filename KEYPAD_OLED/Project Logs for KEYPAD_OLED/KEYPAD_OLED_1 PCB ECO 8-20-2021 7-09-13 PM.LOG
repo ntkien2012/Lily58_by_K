@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=D54-2
+Removed Pin From Net: NetName=VCC_3V3 Pin=R4-1
+Removed Member From Class: ClassName=KEYPAD Member=D54
+Removed Member From Class: ClassName=KEYPAD Member=R4
+Added Member To Class: ClassName=KEYPAD Member=Component P1 USB_M

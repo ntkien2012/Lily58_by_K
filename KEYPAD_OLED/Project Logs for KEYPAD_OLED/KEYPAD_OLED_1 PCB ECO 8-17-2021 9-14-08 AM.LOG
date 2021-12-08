@@ -1,0 +1,8 @@
+Added Component: Designator=U1(SOT95P280X145-5N)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "497-3504-1-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=5V Pin=U1-3
+Added Pin To Net: NetName=NetC12_2 Pin=U1-4
+Added Pin To Net: NetName=3V3 Pin=U1-5
+Added Member To Class: ClassName=KEYPAD Member=Component U1 LD3985M33R

@@ -1,0 +1,30 @@
+Change Component Footprint: Designator=J2 Old Footprint=CON6 -RA New Footprint=CON6
+Added Component: Designator=R1(RESC1608L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "P2.20KLCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC1608L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "P2.20KLCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC1608L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "P2.20KLCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC1608L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "P2.20KLCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=KEYPAD_nINTR Pin=R1-1
+Added Pin To Net: NetName=VCC3V3 Pin=R1-2
+Added Pin To Net: NetName=KEYPAD_nRST Pin=R2-1
+Added Pin To Net: NetName=VCC3V3 Pin=R2-2
+Added Pin To Net: NetName=KEYPAD_SDA Pin=R3-1
+Added Pin To Net: NetName=VCC3V3 Pin=R3-2
+Added Pin To Net: NetName=KEYPAD_SCL Pin=R4-1
+Added Pin To Net: NetName=VCC3V3 Pin=R4-2
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Added Member To Class: ClassName=KEYPAD Member=Component R1 ERJ-2RKF2201X
+Added Member To Class: ClassName=KEYPAD Member=Component R2 ERJ-2RKF2201X
+Added Member To Class: ClassName=KEYPAD Member=Component R3 ERJ-2RKF2201X
+Added Member To Class: ClassName=KEYPAD Member=Component R4 ERJ-2RKF2201X

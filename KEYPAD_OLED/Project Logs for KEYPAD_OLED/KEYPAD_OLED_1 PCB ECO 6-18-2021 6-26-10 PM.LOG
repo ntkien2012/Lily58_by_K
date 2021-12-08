@@ -1,0 +1,15 @@
+Change Component Footprint: Designator=SW1 Old Footprint=cherry_sw New Footprint=Kaih_SW
+Change Component Footprint: Designator=SW2 Old Footprint=cherry_sw New Footprint=Kaih_SW
+Change Component Footprint: Designator=SW3 Old Footprint=cherry_sw New Footprint=Kaih_SW
+Change Component Footprint: Designator=SW4 Old Footprint=cherry_sw New Footprint=Kaih_SW
+Change Component Footprint: Designator=SW5 Old Footprint=cherry_sw New Footprint=Kaih_SW
+Change Component Footprint: Designator=SW6 Old Footprint=cherry_sw New Footprint=Kaih_SW
+Change Component Footprint: Designator=SW7 Old Footprint=cherry_sw New Footprint=Kaih_SW
+Change Component Footprint: Designator=SW8 Old Footprint=cherry_sw New Footprint=Kaih_SW
+Change Component Footprint: Designator=SW9 Old Footprint=cherry_sw New Footprint=Kaih_SW
+Change Component Footprint: Designator=SW10 Old Footprint=cherry_sw New Footprint=Kaih_SW
+Change Component Footprint: Designator=SW11 Old Footprint=cherry_sw New Footprint=Kaih_SW
+Change Component Footprint: Designator=SW12 Old Footprint=cherry_sw New Footprint=Kaih_SW
+Added Member To Class: ClassName=KEYPAD Member=Component SW7 
+Added Member To Class: ClassName=KEYPAD Member=Component SW9 
+Added Member To Class: ClassName=KEYPAD Member=Component SW12 

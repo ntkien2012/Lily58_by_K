@@ -1,0 +1,24 @@
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=VCC3V3 Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J3-5
+Added Pin To Net: NetName=GND Pin=J3-6
+Added Pin To Net: NetName=GND Pin=J3-10
+Added Pin To Net: NetName=GND Pin=J3-11
+Added Pin To Net: NetName=GND Pin=J3-12
+Added Pin To Net: NetName=GND Pin=J3-13
+Added Pin To Net: NetName=GND Pin=J3-14
+Added Pin To Net: NetName=OLED_DC Pin=J1-6
+Added Pin To Net: NetName=OLED_DC Pin=J3-4
+Added Net: Name=OLED_DC
+Added Pin To Net: NetName=OLED_MOSI Pin=J1-2
+Added Pin To Net: NetName=OLED_MOSI Pin=J3-8
+Added Net: Name=OLED_MOSI
+Added Pin To Net: NetName=OLED_nCS Pin=J1-5
+Added Pin To Net: NetName=OLED_nCS Pin=J3-16
+Added Net: Name=OLED_nCS
+Added Pin To Net: NetName=OLED_nRST Pin=J1-7
+Added Pin To Net: NetName=OLED_nRST Pin=J3-15
+Added Net: Name=OLED_nRST
+Added Pin To Net: NetName=OLED_SCK Pin=J1-3
+Added Pin To Net: NetName=OLED_SCK Pin=J3-7
+Added Net: Name=OLED_SCK
